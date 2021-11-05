@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PizzaDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Pizza>
+    <Type base="sour cream">medium</Type>
+    <Size unit="inch">30</Size>
+    <PastaThickness>5</PastaThickness>
+    <NumberOfToppings>5</NumberOfToppings>
+    <Price>3700</Price>
+    <FantasyName>Bulgogi and Kimchi Pizza</FantasyName>
+  </Pizza>
+  <Pizza>
+    <Type base="tomato">large</Type>
+    <Size unit="cm">45</Size>
+    <PastaThickness>7</PastaThickness>
+    <NumberOfToppings>2</NumberOfToppings>
+    <Price>1200</Price>
+    <FantasyName>Kimchi and Bulgogi Pizza</FantasyName>
+  </Pizza>
+  <Pizza>
+    <Type base="tomato">medium</Type>
+    <Size unit="cm">30</Size>
+    <PastaThickness>9</PastaThickness>
+    <NumberOfToppings>3</NumberOfToppings>
+    <Price>3600</Price>
+    <FantasyName>Capsicum and Mushroom Pizza</FantasyName>
+  </Pizza>
+  <Pizza>
+    <Type base="tomato">large</Type>
+    <Size unit="inch">45</Size>
+    <PastaThickness>10</PastaThickness>
+    <NumberOfToppings>2</NumberOfToppings>
+    <Price>4200</Price>
+    <FantasyName>Chicken and Strawberry Balsamic Pizza</FantasyName>
+  </Pizza>
+  <Pizza status="VIP">
+    <Type base="sour cream">small</Type>
+    <Size unit="inch">20</Size>
+    <PastaThickness>11</PastaThickness>
+    <NumberOfToppings>5</NumberOfToppings>
+    <Price>2700</Price>
+    <FantasyName>Chimichurri Chorizo Pizza</FantasyName>
+  </Pizza>
+  <Pizza>
+    <Type base="tomato">small</Type>
+    <Size unit="cm">20</Size>
+    <PastaThickness>10</PastaThickness>
+    <NumberOfToppings>3</NumberOfToppings>
+    <Price>4800</Price>
+    <FantasyName>Pizza con Chorizo y Salsa Chimichurri</FantasyName>
+  </Pizza>
+  <Pizza>
+    <Type base="sour cream">small</Type>
+    <Size unit="cm">20</Size>
+    <PastaThickness>9</PastaThickness>
+    <NumberOfToppings>2</NumberOfToppings>
+    <Price>2300</Price>
+    <FantasyName>Chimichurri Chorizo Pizza</FantasyName>
+  </Pizza>
+  <Pizza>
+    <Type base="sour cream">medium</Type>
+    <Size unit="cm">30</Size>
+    <PastaThickness>8</PastaThickness>
+    <NumberOfToppings>3</NumberOfToppings>
+    <Price>2700</Price>
+    <FantasyName>Fire Breather Pizza</FantasyName>
+  </Pizza>
+  <Pizza>
+    <Type base="sour cream">medium</Type>
+    <Size unit="inch">30</Size>
+    <PastaThickness>6</PastaThickness>
+    <NumberOfToppings>5</NumberOfToppings>
+    <Price>2300</Price>
+    <FantasyName>Egg and Bacon Pizza</FantasyName>
+  </Pizza>
+  <Pizza>
+    <Type base="sour cream">medium</Type>
+    <Size unit="cm">30</Size>
+    <PastaThickness>6</PastaThickness>
+    <NumberOfToppings>2</NumberOfToppings>
+    <Price>2900</Price>
+    <FantasyName>The Aussie Egg And Bacon Pizza</FantasyName>
+  </Pizza>
+  <Pizza>
+    <Type base="tomato">small</Type>
+    <Size unit="cm">20</Size>
+    <PastaThickness>9</PastaThickness>
+    <NumberOfToppings>5</NumberOfToppings>
+    <Price>3400</Price>
+    <FantasyName>Fish Pizza with Olives, Capsicum, and Parmesan</FantasyName>
+  </Pizza>
+  <Pizza>
+    <Type base="tomato">small</Type>
+    <Size unit="cm">20</Size>
+    <PastaThickness>7</PastaThickness>
+    <NumberOfToppings>3</NumberOfToppings>
+    <Price>3500</Price>
+    <FantasyName>Green Pizza</FantasyName>
+  </Pizza>
+  <Pizza>
+    <Type base="tomato">small</Type>
+    <Size unit="cm">20</Size>
+    <PastaThickness>12</PastaThickness>
+    <NumberOfToppings>2</NumberOfToppings>
+    <Price>4700</Price>
+    <FantasyName>Ham and Asparagus Pizza</FantasyName>
+  </Pizza>
+  <Pizza>
+    <Type base="sour cream">small</Type>
+    <Size unit="inch">20</Size>
+    <PastaThickness>8</PastaThickness>
+    <NumberOfToppings>5</NumberOfToppings>
+    <Price>2000</Price>
+    <FantasyName>Lamb Pizza with Salsa and Tzatziki Pizza</FantasyName>
+  </Pizza>
+  <Pizza>
+    <Type base="tomato">medium</Type>
+    <Size unit="cm">30</Size>
+    <PastaThickness>7</PastaThickness>
+    <NumberOfToppings>4</NumberOfToppings>
+    <Price>2000</Price>
+    <FantasyName>Meat Lovers Pizza</FantasyName>
+  </Pizza>
+  <Pizza>
+    <Type base="tomato">small</Type>
+    <Size unit="inch">20</Size>
+    <PastaThickness>13</PastaThickness>
+    <NumberOfToppings>3</NumberOfToppings>
+    <Price>4200</Price>
+    <FantasyName>Pepperoni and Mushroom Pizza</FantasyName>
+  </Pizza>
+  <Pizza>
+    <Type base="tomato">small</Type>
+    <Size unit="inch">20</Size>
+    <PastaThickness>9</PastaThickness>
+    <NumberOfToppings>5</NumberOfToppings>
+    <Price>3500</Price>
+    <FantasyName>Pizza with Ramen Noodle Base</FantasyName>
+  </Pizza>
+  <Pizza>
+    <Type base="sour cream">medium</Type>
+    <Size unit="cm">30</Size>
+    <PastaThickness>11</PastaThickness>
+    <NumberOfToppings>3</NumberOfToppings>
+    <Price>1700</Price>
+    <FantasyName>Pepperoni and Sausage Pizza</FantasyName>
+  </Pizza>
+  <Pizza status="VIP">
+    <Type base="tomato">large</Type>
+    <Size unit="cm">45</Size>
+    <PastaThickness>13</PastaThickness>
+    <NumberOfToppings>4</NumberOfToppings>
+    <Price>2500</Price>
+    <FantasyName>Peri Peri Chicken Pizza</FantasyName>
+  </Pizza>
+  <Pizza status="VIP">
+    <Type base="sour cream">medium</Type>
+    <Size unit="cm">30</Size>
+    <PastaThickness>5</PastaThickness>
+    <NumberOfToppings>5</NumberOfToppings>
+    <Price>1400</Price>
+    <FantasyName>Pizza Bianca with Potatoes – Potato Pizza</FantasyName>
+  </Pizza>
+  <Pizza status="VIP">
+    <Type base="sour cream">large</Type>
+    <Size unit="inch">45</Size>
+    <PastaThickness>7</PastaThickness>
+    <NumberOfToppings>5</NumberOfToppings>
+    <Price>4400</Price>
+    <FantasyName>Pizza Hut’s Original Pan Pizzaa</FantasyName>
+  </Pizza>
+  <Pizza status="VIP">
+    <Type base="tomato">medium</Type>
+    <Size unit="cm">30</Size>
+    <PastaThickness>11</PastaThickness>
+    <NumberOfToppings>3</NumberOfToppings>
+    <Price>2800</Price>
+    <FantasyName>Poached Egg and Rocket Pizza</FantasyName>
+  </Pizza>
+  <Pizza>
+    <Type base="tomato">large</Type>
+    <Size unit="cm">45</Size>
+    <PastaThickness>13</PastaThickness>
+    <NumberOfToppings>4</NumberOfToppings>
+    <Price>3500</Price>
+    <FantasyName>Poached Egg and Rocket Pizza</FantasyName>
+  </Pizza>
+  <Pizza>
+    <Type base="tomato">medium</Type>
+    <Size unit="cm">30</Size>
+    <PastaThickness>13</PastaThickness>
+    <NumberOfToppings>4</NumberOfToppings>
+    <Price>2500</Price>
+    <FantasyName>Potato and Taleggio Cheese Pizza</FantasyName>
+  </Pizza>
+  <Pizza status="VIP">
+    <Type base="tomato">medium</Type>
+    <Size unit="inch">30</Size>
+    <PastaThickness>13</PastaThickness>
+    <NumberOfToppings>5</NumberOfToppings>
+    <Price>2900</Price>
+    <FantasyName>Pumpkin and Ricotta Pizza</FantasyName>
+  </Pizza>
+  <Pizza>
+    <Type base="sour cream">medium</Type>
+    <Size unit="inch">30</Size>
+    <PastaThickness>10</PastaThickness>
+    <NumberOfToppings>3</NumberOfToppings>
+    <Price>4400</Price>
+    <FantasyName>Seafood Marinara Pizza</FantasyName>
+  </Pizza>
+  <Pizza status="VIP">
+    <Type base="sour cream">small</Type>
+    <Size unit="cm">20</Size>
+    <PastaThickness>5</PastaThickness>
+    <NumberOfToppings>3</NumberOfToppings>
+    <Price>4900</Price>
+    <FantasyName>Steak Fajita Pizza</FantasyName>
+  </Pizza>
+  <Pizza status="VIP">
+    <Type base="tomato">small</Type>
+    <Size unit="inch">20</Size>
+    <PastaThickness>10</PastaThickness>
+    <NumberOfToppings>2</NumberOfToppings>
+    <Price>1900</Price>
+    <FantasyName>Tandoori Chicken Pizza</FantasyName>
+  </Pizza>
+</PizzaDatabase>
